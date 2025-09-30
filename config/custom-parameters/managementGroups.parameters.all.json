@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "parTopLevelManagementGroupPrefix": {
-      "value": "alz"
+      "value": "mg"
     },
     "parTopLevelManagementGroupSuffix": {
       "value": ""
     },
     "parTopLevelManagementGroupDisplayName": {
-      "value": "Azure Landing Zones"
+      "value": "Treasury TN"
     },
     "parTopLevelManagementGroupParentId": {
       "value": "d9482748-428d-47c6-ad56-4e1bfd10e198"
@@ -24,13 +24,36 @@
       "value": false
     },
     "parLandingZoneMgChildren": {
-      "value": {}
+      "aris": {
+        "displayName": "ARIS"
+      },
+      "avd": {
+        "displayName": "AVD"
+      },
+      "FutureApps": {
+        "displayName": "Future Apps"
+      },
+      "online": {
+        "displayName": "Online"
+      },
+      "shared-services": {
+        "displayName": "Shared Services"
+      }
     },
     "parPlatformMgChildren": {
-      "value": {}
+      "connectivity": {
+        "displayName": "Connectivity"
+      },
+      "identity": {
+        "displayName": "Identity"
+      },
+      "management": {
+        "displayName": "Management"
+      }
     },
     "parTelemetryOptOut": {
       "value": false
     }
   }
 }
+
