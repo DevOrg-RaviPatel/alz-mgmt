@@ -40,8 +40,8 @@
         "shared-resources": {
           "displayName": "Shared"
         }
-      }
-    },
+    }
+  },
     "parPlatformMgChildren": {
       "value": {
         "connectivity": {
