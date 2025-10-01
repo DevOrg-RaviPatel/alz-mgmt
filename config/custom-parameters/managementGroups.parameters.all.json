@@ -45,7 +45,35 @@
         }
     }
   },
+      "value": {
+        "aris": {
+          "displayName": "ARIS"
+        },
+        "value": {
+          "displayName": "AVD" 
+        },
+        "FutureApps": {
+          "displayName": "Workloads"
+        },
+        "online": {
+          "displayName": "Public Facing"
+        },
+        "shared-resources": {
+          "displayName": "Shared"
+        }
+    }
+  },
     "parPlatformMgChildren": {
+      "value": {
+        "connectivity": {
+          "displayName": "Connectivity"
+        },
+        "identity": {
+          "displayName": "Identity"
+        },
+        "management": {
+          "displayName": "Management"
+        }
       "value": {
         "connectivity": {
           "displayName": "Connectivity"
