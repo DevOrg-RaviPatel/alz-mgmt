@@ -24,31 +24,35 @@
       "value": false
     },
     "parLandingZoneMgChildren": {
-      "aris": {
-        "displayName": "ARIS"
-      },
-      "avd": {
-        "displayName": "AVD"
-      },
-      "FutureApps": {
-        "displayName": "Workloads"
-      },
-      "online": {
-        "displayName": "Public Facing"
-      },
-      "shared-resources": {
-        "displayName": "Shared"
+      "value": {
+        "aris": {
+          "displayName": "ARIS"
+        },
+        "value": {
+          "displayName": "AVD"
+        },
+        "FutureApps": {
+          "displayName": "Workloads"
+        },
+        "online": {
+          "displayName": "Public Facing"
+        },
+        "shared-resources": {
+          "displayName": "Shared"
+        }
       }
     },
     "parPlatformMgChildren": {
-      "connectivity": {
-        "displayName": "Connectivity"
-      },
-      "identity": {
-        "displayName": "Identity"
-      },
-      "management": {
-        "displayName": "Management"
+      "value": {
+        "connectivity": {
+          "displayName": "Connectivity"
+        },
+        "identity": {
+          "displayName": "Identity"
+        },
+        "management": {
+          "displayName": "Management"
+        }
       }
     },
     "parTelemetryOptOut": {
@@ -56,5 +60,3 @@
     }
   }
 }
-
-
