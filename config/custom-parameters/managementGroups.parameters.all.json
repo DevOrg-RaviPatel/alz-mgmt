@@ -9,7 +9,7 @@
       "value": ""
     },
     "parTopLevelManagementGroupDisplayName": {
-      "value": "Treasury TN1"
+      "value": "Treasury TN"
     },
     "parTopLevelManagementGroupParentId": {
       "value": "d9482748-428d-47c6-ad56-4e1bfd10e198"
@@ -31,13 +31,13 @@
         "displayName": "AVD"
       },
       "FutureApps": {
-        "displayName": "Future Apps"
+        "displayName": "Workloads"
       },
       "online": {
-        "displayName": "Online"
+        "displayName": "Public Facing"
       },
-      "shared-services": {
-        "displayName": "Shared Services"
+      "shared-resources": {
+        "displayName": "Shared"
       }
     },
     "parPlatformMgChildren": {
