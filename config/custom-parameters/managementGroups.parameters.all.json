@@ -10,18 +10,18 @@
     },
     "parTopLevelManagementGroupDisplayName": {
       "value": "Treasury TN"
-      "value": "Treasury TN"
+      
     },
     "parTopLevelManagementGroupParentId": {
       "value": "d9482748-428d-47c6-ad56-4e1bfd10e198"
     },
     "parLandingZoneMgAlzDefaultsEnable": {
       "value": false
-      "value": false
+     
     },
     "parPlatformMgAlzDefaultsEnable": {
       "value": false
-      "value": false
+      
     },
     "parLandingZoneMgConfidentialEnable": {
       "value": false
@@ -45,7 +45,35 @@
         }
     }
   },
+      "value": {
+        "aris": {
+          "displayName": "ARIS"
+        },
+        "value": {
+          "displayName": "AVD" 
+        },
+        "FutureApps": {
+          "displayName": "Workloads"
+        },
+        "online": {
+          "displayName": "Public Facing"
+        },
+        "shared-resources": {
+          "displayName": "Shared"
+        }
+    }
+  },
     "parPlatformMgChildren": {
+      "value": {
+        "connectivity": {
+          "displayName": "Connectivity"
+        },
+        "identity": {
+          "displayName": "Identity"
+        },
+        "management": {
+          "displayName": "Management"
+        }
       "value": {
         "connectivity": {
           "displayName": "Connectivity"
