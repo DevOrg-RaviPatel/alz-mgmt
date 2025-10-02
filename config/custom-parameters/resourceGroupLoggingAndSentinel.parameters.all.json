@@ -6,7 +6,7 @@
       "value": "eastus2"
     },
     "parResourceGroupName": {
-      "value": "rg-alz-logging"
+      "value": "rg-alz-logging-eus2-01"
     },
     "parTags": {
       "value": {
