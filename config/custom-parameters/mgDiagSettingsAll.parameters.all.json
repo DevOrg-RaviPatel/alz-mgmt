@@ -9,19 +9,19 @@
       "value": ""
     },
     "parLandingZoneMgAlzDefaultsEnable": {
-      "value": true
+      "value": false
     },
     "parPlatformMgAlzDefaultsEnable": {
-      "value": true
+      "value": false
     },
     "parLandingZoneMgConfidentialEnable": {
       "value": false
     },
     "parLogAnalyticsWorkspaceResourceId": {
-      "value": "/subscriptions/658c989d-f7b0-4941-8f4f-729a474c682a/resourcegroups/rg-alz-logging/providers/microsoft.operationalinsights/workspaces/alz-log-analytics"
+      "value": "/subscriptions/658c989d-f7b0-4941-8f4f-729a474c682a/resourceGroups/rg-alz-logging-eus2-01/providers/Microsoft.OperationalInsights/workspaces/law-core-eus2-01"
     },
     "parDiagnosticSettingsName": {
-      "value": "toLa"
+      "value": "diag-mg-law"
     },
     "parLandingZoneMgChildren": {
       "value": []
