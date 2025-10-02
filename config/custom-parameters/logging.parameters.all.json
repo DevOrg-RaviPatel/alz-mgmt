@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "parLogAnalyticsWorkspaceName": {
-      "value": "alz-log-analytics"
+      "value": "law-core-eus2-01"
     },
     "parLogAnalyticsWorkspaceLocation": {
       "value": "eastus2"
@@ -27,16 +27,16 @@
       "value": "PerfAndMap"
     },
     "parDataCollectionRuleVMInsightsName": {
-      "value": "alz-ama-vmi-dcr"
+      "value": "dcr-vmi-alz-eus2-01"
     },
     "parDataCollectionRuleChangeTrackingName": {
-      "value": "alz-ama-ct-dcr"
+      "value": "dcr-ct-alz-eus2-01"
     },
     "parDataCollectionRuleMDFCSQLName": {
-      "value": "alz-ama-mdfcsql-dcr"
+      "value": "dcr-mdfcsql-alz-eus2-01"
     },
     "parUserAssignedManagedIdentityName": {
-      "value": "alz-umi-identity"
+      "value": "mi-alz-eus2-01"
     },
     "parUserAssignedManagedIdentityLocation": {
       "value": "eastus2"
@@ -48,7 +48,7 @@
       "value": false
     },
     "parAutomationAccountName": {
-      "value": "alz-automation-account"
+      "value": "aact-alz-eus2-01"
     },
     "parAutomationAccountLocation": {
       "value": "eastus2"
