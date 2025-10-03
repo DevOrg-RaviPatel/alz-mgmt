@@ -11,7 +11,7 @@
   "LOCATION": "eastus2",
   "LOGGING_RESOURCE_GROUP": "rg-alz-logging-eus2-01",
   "MANAGEMENT_SUBSCRIPTION_ID": "658c989d-f7b0-4941-8f4f-729a474c682a",
-  "NETWORK_TYPE": "hubNetworking",
+  "NETWORK_TYPE": "vwanConnectivity",
   "MANAGEMENT_GROUP_ID": "mg",
   "PREFIX": "alz",
   "RELEASE_VERSION": "v0.23.0",
