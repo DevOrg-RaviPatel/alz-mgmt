@@ -24,10 +24,12 @@
       "value": "diag-mg-law"
     },
     "parLandingZoneMgChildren": {
-      "value": []
+      "value": ["mg-landingzones-aris", "mg-landingzones-online"]
     },
     "parPlatformMgChildren": {
-      "value": []
+      "value": [
+"mg-platform-connectivity"
+      ]
     },
     "parTelemetryOptOut": {
       "value": false
