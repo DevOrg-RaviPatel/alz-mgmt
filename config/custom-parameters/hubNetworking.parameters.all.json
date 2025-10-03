@@ -6,10 +6,10 @@
       "value": "eastus2"
     },
     "parCompanyPrefix": {
-      "value": "alz"
+      "value": ""
     },
     "parHubNetworkName": {
-      "value": "alz-hub-eastus2"
+      "value": "vnet-hub-alz-eus2-01"
     },
     "parHubNetworkAddressPrefix": {
       "value": "10.20.0.0/16"
@@ -52,13 +52,13 @@
       "value": ""
     },
     "parPublicIpSuffix": {
-      "value": "-PublicIP"
+      "value": ""
     },
     "parAzBastionEnabled": {
       "value": true
     },
     "parAzBastionName": {
-      "value": "alz-bastion-eastus2"
+      "value": "bstn-alz-eus2-01"
     },
     "parAzBastionSku": {
       "value": "Standard"
@@ -67,13 +67,13 @@
       "value": false
     },
     "parAzBastionNsgName": {
-      "value": "nsg-AzureBastionSubnet-eastus2"
+      "value": "nsg-AzureBastionSubnet-eus2-01"
     },
     "parDdosEnabled": {
       "value": true
     },
     "parDdosPlanName": {
-      "value": "alz-ddos-plan-eastus2"
+      "value": "ddos-plan-alz-eus2-01"
     },
     "parAzFirewallEnabled": {
       "value": true
@@ -82,7 +82,7 @@
       "value": "alz-azfw-eastus2"
     },
     "parAzFirewallPoliciesName": {
-      "value": "alz-azfwpolicy-eastus2"
+      "value": "fwpolicy-alz-eus2-01"
     },
     "parAzFirewallTier": {
       "value": "Standard"
@@ -118,7 +118,7 @@
       "value": []
     },
     "parHubRouteTableName": {
-      "value": "alz-hub-routetable-eastus2"
+      "value": "rt-alz-eus2-01"
     },
     "parDisableBgpRoutePropagation": {
       "value": false
@@ -134,7 +134,7 @@
     },
     "parVpnGatewayConfig": {
       "value": {
-        "name": "alz-Vpn-Gateway",
+        "name": "vpn-gw-alz-eus2-01",
         "gatewayType": "Vpn",
         "sku": "VpnGw1AZ",
         "vpnType": "RouteBased",
@@ -159,7 +159,7 @@
     },
     "parExpressRouteGatewayConfig": {
       "value": {
-        "name": "alz-ExpressRoute-Gateway",
+        "name": "exrt-gw-alz-eus2-01",
         "gatewayType": "ExpressRoute",
         "sku": "ErGw1Az",
         "vpnType": "RouteBased",
