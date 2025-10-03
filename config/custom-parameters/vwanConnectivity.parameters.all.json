@@ -6,34 +6,34 @@
       "value": "eastus2"
     },
     "parCompanyPrefix": {
-      "value": "alz"
+      "value": ""
     },
     "parVirtualHubEnabled": {
       "value": true
     },
     "parVirtualWanName": {
-      "value": "alz-vwan-eastus2"
+      "value": "vwan-alz-eus2-01"
     },
     "parVirtualWanType": {
       "value": "Standard"
     },
     "parVirtualWanHubName": {
-      "value": "alz-vhub"
+      "value": "vhub-alz-eus2-01"
     },
     "parVirtualWanHubDefaultRouteName": {
-      "value": "default-to-azfw"
+      "value": "default-to-fw"
     },
     "parVpnGatewayName": {
-      "value": "alz-vpngw"
+      "value": "vpn-gw-alz-eus2-01"
     },
     "parExpressRouteGatewayName": {
-      "value": "alz-ergw"
+      "value": "exrt-gw-alz-eus2-01"
     },
     "parAzFirewallName": {
-      "value": "alz-azfw-eastus2"
+      "value": "fw-alz-eus2-01"
     },
     "parAzFirewallPoliciesName": {
-      "value": "alz-azfwpolicy-eastus2"
+      "value": "fwpolicy-alz-eus2-01"
     },
     "parVirtualWanHubs": {
       "value": [
@@ -74,10 +74,10 @@
       "value": true
     },
     "parDdosPlanName": {
-      "value": "alz-ddos-plan-eastus2"
+      "value": "ddos-plan-alz-eus2-01"
     },
     "parPrivateDnsZonesEnabled": {
-      "value": true
+      "value": false
     },
     "parPrivateDnsZones": {
       "value": []
